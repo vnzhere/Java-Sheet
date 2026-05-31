@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import java.util.Scanner;
 
 public class Patterns{
@@ -20,5 +18,4 @@ public class Patterns{
 
     }
 }
->>>>>>> 0a185b9 (Initial Commit)
 
